@@ -72,7 +72,7 @@ export default function Index() {
               Crafting Digital Experiences with{" "}
               <span className="text-primary font-semibold">
                 <Typewriter
-                  words={["React", "Next.js", "Node.js", "MERN Stack", "TypeScript"]}
+                  words={["React.js", "Next.js", "Node.js", "MERN Stack", "TypeScript", "Express.js", "MongoDB"]}
                   loop={true}
                   cursor
                   cursorStyle="|"
@@ -90,7 +90,7 @@ export default function Index() {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-lg text-muted-foreground mb-10 max-w-2xl mx-auto"
             >
-              3+ years of experience building scalable web applications with modern technologies
+              3 years of experience building scalable web applications with modern technologies
             </motion.p>
 
             {/* Stats */}
