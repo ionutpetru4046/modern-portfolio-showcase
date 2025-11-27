@@ -9,7 +9,7 @@ const skills = [
 ];
 
 const techStack = [
-  "React", "Next.js", "TypeScript", "Node.js", "MongoDB", "PostgreSQL", "Tailwind CSS", "Framer Motion"
+  "React.js", "Next.js", "TypeScript", "Node.js", "MongoDB", "PostgreSQL", "Tailwind CSS", "Framer Motion", "Express.js"
 ];
 
 export default function About() {

@@ -8,7 +8,7 @@ const posts = [
     date: "Nov 15, 2024",
     readTime: "5 min read",
     image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=250&fit=crop",
-    link: "#",
+    link: "https://react.dev/blog",
   },
   {
     title: "The Future of Full Stack Development",
@@ -16,15 +16,15 @@ const posts = [
     date: "Nov 10, 2024",
     readTime: "4 min read",
     image: "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=250&fit=crop",
-    link: "#",
+    link: "https://dev.to/raajaryan/web-development-in-2025-are-you-ready-for-the-future-2c1f",
   },
   {
-    title: "Mastering TypeScript for React",
-    excerpt: "A comprehensive guide to using TypeScript effectively in your React projects for better developer experience.",
+    title: "Optimizing Performance in Next.js",
+    excerpt: "Practical tips and techniques for improving the performance of your Next.js applications with real-world examples.",
     date: "Nov 5, 2024",
     readTime: "6 min read",
     image: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=400&h=250&fit=crop",
-    link: "#",
+    link: "https://medium.com/better-dev-nextjs-react/everything-developers-need-to-know-about-next-js-16-0-1-db265ac9d543",
   },
 ];
 
