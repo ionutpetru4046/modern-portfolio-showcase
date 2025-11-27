@@ -3,12 +3,21 @@ import { ExternalLink, Github, ArrowUpRight } from "lucide-react";
 
 const projects = [
   {
+    title: "Josh’s Turkish Barbers",
+    description: "A modern barbershop website built for a real client. Fully responsive and animated using Framer Motion, it includes services, gallery, testimonials carousel, and a booking CTA.",
+    tags: ["Next.js", "TypeScript", "Framer-Motion", "Swiper.js"],
+    image: "./public/Barber Shop.png",
+    github: "https://github.com/ionutpetru4046/barbershop-website-main",
+    live: "https://barbershop-website-chi.vercel.app/",
+    featured: false,
+  },
+  {
     title: "Mechanic Booking Website",
     description: "A full-featured e-commerce solution with real-time inventory, payment processing, and admin dashboard.",
     tags: ["Next.js", "Stripe", "MongoDB", "Tailwind"],
-    image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=500&fit=crop",
-    github: "#",
-    live: "#",
+    image: "./public/Expert Automotive.png",
+    github: "https://github.com/ionutpetru4046/Mechanic-Website",
+    live: "https://mechanic-website-tau.vercel.app/",
     featured: true,
   },
   {
@@ -19,15 +28,6 @@ const projects = [
     github: "#",
     live: "#",
     featured: true,
-  },
-  {
-    title: "Josh’s Turkish Barbers",
-    description: "A modern barbershop website built for a real client. Fully responsive and animated using Framer Motion, it includes services, gallery, testimonials carousel, and a booking CTA.",
-    tags: ["Next.js", "TypeScript", "Framer-Motion", "Swiper.js"],
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=500&fit=crop",
-    github: "#",
-    live: "#",
-    featured: false,
   },
   {
     title: "Finance Dashboard",
