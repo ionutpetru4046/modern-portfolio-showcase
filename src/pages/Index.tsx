@@ -3,7 +3,7 @@ import { Typewriter } from "react-simple-typewriter";
 import Navbar from "@/components/Navbar";
 import About from "@/pages/about";
 import Projects from "@/pages/projects";
-import Testimonials from "@/pages/testimonials";
+// import Testimonials from "@/pages/testimonials";
 import Experience from "@/pages/experience";
 import ContactSection from "@/pages/contact";
 import BlogSection from "@/pages/blog";
@@ -185,11 +185,11 @@ export default function Index() {
       </section>
 
       <About />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Projects />
       <Experience />
-      <ContactSection />
       <BlogSection />
+      <ContactSection />
       <Footer />
     </div>
   );

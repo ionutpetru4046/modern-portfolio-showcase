@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Mechanic Booking Website",
     description: "A full-featured e-commerce solution with real-time inventory, payment processing, and admin dashboard.",
-    tags: ["Next.js", "Stripe", "MongoDB", "Tailwind"],
+    tags: ["React.js", "Node.js", "MongoDB", "Express.js"],
     image: "/Expert Automotive.png",
     github: "https://github.com/ionutpetru4046/Mechanic-Website",
     live: "https://mechanic-website-tau.vercel.app/",
