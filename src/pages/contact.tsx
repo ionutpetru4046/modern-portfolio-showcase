@@ -49,7 +49,7 @@ export default function ContactSection() {
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
                   <a href="mailto:contact@costeionut.dev" className="font-medium hover:text-primary transition-colors">
-                    contact@costeionut.dev
+                    costeWebDev@gmail.com
                   </a>
                 </div>
               </div>
@@ -62,7 +62,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="font-medium">Remote / Worldwide</p>
+                  <p className="font-medium">Dublin City Center, Ireland</p>
                 </div>
               </div>
             </div>
