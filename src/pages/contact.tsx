@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Mail, MapPin, Send, Github, Linkedin } from "lucide-react";
 import { useState } from "react";
 import emailjs from "emailjs-com";
+import toast from "react-hot-toast";
 
 export default function ContactSection() {
   const [formData, setFormData] = useState({
@@ -29,11 +30,11 @@ export default function ContactSection() {
       )
       .then(
         () => {
-          setStatus("success");
+          toast.success("Message sent! I’ll get back to you shortly.", { duration: 5000 });
           setFormData({ name: "", email: "", message: "" });
         },
         () => {
-          setStatus("error");
+          toast.error("Failed to send. Please try again.", { duration: 5000 });;
         }
       );
   };
