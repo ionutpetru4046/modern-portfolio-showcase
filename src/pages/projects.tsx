@@ -21,12 +21,12 @@ const projects = [
     featured: true,
   },
   {
-    title: "Task Management App",
-    description: "A Full-Stack Booking and service Website built for a local mechanic shop. It includes an online booking system, service listings, and a secure admin dashboard to manage appointments and customer data.",
-    tags: ["React", "Node.js", "Express.js", "MongoDB", "Framer-Motion"],
-    image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=500&fit=crop",
-    github: "#",
-    live: "#",
+    title: "The Ultimate Streaming Toolkit",
+    description: "Optimize your streams, track real-time analytics, and engage your audience effortlessly—all in one place. Perfect for Twitch, YouTube, and Facebook streamers.",
+    tags: ["React.js", "Vite", "TailwindCSS", "Framer-Motion"],
+    image: "/Ultimate SaaS Streaming.png",
+    github: "https://github.com/ionutpetru4046/Modern-Saas-Website",
+    live: "https://modern-saas-website.vercel.app/",
     featured: true,
   },
   {
