@@ -4,14 +4,16 @@ import { Briefcase, GraduationCap } from "lucide-react";
 const experiences = [
   {
     type: "work",
-    title: "Senior Full Stack Developer",
-    company: "Tech Solutions Inc.",
-    period: "2022 - Present",
-    description: "Leading development of enterprise web applications using React, Node.js, and cloud technologies.",
+    title: "Full Stack Developer",
+    company: "Unioil.",
+    period: "2025 - Present",
+    description: [
+      "- Building and maintaining full-stack web applications using React, Node.js, Express, and MongoDB\n- Collaborating with design and backend teams to create seamless user experiences\n- Implementing REST APIs and optimizing database queries for better performance\n- Deploying and maintaining applications on cloud platforms (Vercel, Render, or AWS)"
+    ],
   },
   {
     type: "work",
-    title: "Full Stack Developer",
+    title: "Freelancing",
     company: "Digital Agency",
     period: "2021 - 2022",
     description: "Built custom web applications and e-commerce solutions for various clients.",
@@ -20,15 +22,8 @@ const experiences = [
     type: "work",
     title: "Junior Developer",
     company: "StartUp Hub",
-    period: "2020 - 2021",
+    period: "2021 - 2022",
     description: "Developed frontend components and learned backend technologies in a fast-paced startup environment.",
-  },
-  {
-    type: "education",
-    title: "Computer Science",
-    company: "University of Technology",
-    period: "2016 - 2020",
-    description: "Bachelor's degree in Computer Science with focus on software engineering and web development.",
   },
 ];
 
