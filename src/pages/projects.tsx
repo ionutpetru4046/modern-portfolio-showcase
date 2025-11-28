@@ -30,12 +30,12 @@ const projects = [
     featured: true,
   },
   {
-    title: "Finance Dashboard",
+    title: "Restaura",
     description: "Real-time financial analytics dashboard with charts, reports, and AI predictions.",
-    tags: ["React", "D3.js", "Python", "FastAPI"],
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=500&fit=crop",
-    github: "#",
-    live: "#",
+    tags: ["React.js", "Vite", "TailwindCSS", "Framer-Motion"],
+    image: "/Restaura.png",
+    github: "https://github.com/ionutpetru4046/Restaura",
+    live: "https://restaura-landing-page-website.vercel.app/",
     featured: false,
   },
 ];
