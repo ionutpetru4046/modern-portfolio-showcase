@@ -41,8 +41,8 @@ export default function About() {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              I'm a Full Stack Developer with 3+ years of experience building modern web applications. 
-              I specialize in React, Next.js, and Node.js, creating seamless user experiences from 
+              I'm a Full Stack Developer with 3 years of experience building modern web applications. 
+              I specialize in React.js, Node.js, Express.js, MongoDB, and Next.js creating seamless user experiences from 
               frontend to backend.
             </p>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
