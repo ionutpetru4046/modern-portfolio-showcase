@@ -101,9 +101,9 @@ export default function Index() {
               className="flex justify-center gap-8 sm:gap-16 mb-10"
             >
               {[
-                { value: "3+", label: "Years Experience" },
+                { value: "3", label: "Years Experience" },
                 { value: "20+", label: "Projects Completed" },
-                { value: "5+", label: "Technologies" },
+                { value: "15+", label: "Technologies" },
               ].map((stat, index) => (
                 <div key={stat.label} className="text-center">
                   <h3 className="text-3xl sm:text-4xl font-display font-bold gradient-text-primary">
