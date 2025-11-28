@@ -15,7 +15,7 @@ const experiences = [
     type: "work",
     title: "Freelancing",
     company: "Digital Agency",
-    period: "2021 - 2022",
+    period: "2022 - 2025",
     description: "Built custom web applications and e-commerce solutions for various clients.",
   },
   {
