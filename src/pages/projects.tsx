@@ -13,7 +13,7 @@ const projects = [
   },
   {
     title: "Mechanic Booking Website",
-    description: "A full-featured e-commerce solution with real-time inventory, payment processing, and admin dashboard.",
+    description: "A Full-Stack Booking and service Website built for a local mechanic shop. It includes an online booking system, service listings, and a secure admin dashboard to manage appointments and customer data.",
     tags: ["React.js", "Node.js", "MongoDB", "Express.js"],
     image: "/Expert Automotive.png",
     github: "https://github.com/ionutpetru4046/Mechanic-Website",
