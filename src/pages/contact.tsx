@@ -79,7 +79,7 @@ export default function ContactSection() {
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
                   <a
-                    href="mailto:costeWebDev@gmail.com"
+                    href="mailto:costewebdev@gmail.com"
                     className="font-medium hover:text-primary transition-colors"
                   >
                     costeWebDev@gmail.com

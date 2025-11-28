@@ -49,7 +49,7 @@ export default function Navbar() {
                 scrollToSection("#home");
               }}
             >
-              CosteWebDev
+              costeWebDev
             </motion.a>
 
             {/* Desktop Navigation */}
