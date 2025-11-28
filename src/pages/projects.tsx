@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Restaura",
-    description: "Real-time financial analytics dashboard with charts, reports, and AI predictions.",
+    description: "Modern restaurant website showcasing clean UI, smooth animations, and solid React frontend development.",
     tags: ["React.js", "Vite", "TailwindCSS", "Framer-Motion"],
     image: "/Restaura.png",
     github: "https://github.com/ionutpetru4046/Restaura",
