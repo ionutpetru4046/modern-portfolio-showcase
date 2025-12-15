@@ -5,7 +5,7 @@ const experiences = [
   {
     type: "work",
     title: "Full Stack Developer",
-    company: "Unioil.",
+    company: "Unioil",
     period: "2025 - Present",
     description: [
       "- Building and maintaining full-stack web applications using React, Node.js, Express, and MongoDB\n- Collaborating with design and backend teams to create seamless user experiences\n- Implementing REST APIs and optimizing database queries for better performance\n- Deploying and maintaining applications on cloud platforms (Vercel, Render, or AWS)"

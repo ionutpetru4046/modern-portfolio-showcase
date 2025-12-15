@@ -13,8 +13,8 @@ const posts = [
   {
     title: "The Future of Full Stack Development",
     excerpt: "Exploring emerging technologies and trends that are shaping the future of full stack web development.",
-    date: "Nov 10, 2024",
-    readTime: "4 min read",
+    date: "April 1, 2025",
+    readTime: "10 min read",
     image: "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=250&fit=crop",
     link: "https://dev.to/raajaryan/web-development-in-2025-are-you-ready-for-the-future-2c1f",
   },
