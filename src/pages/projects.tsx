@@ -33,7 +33,7 @@ const projects = [
     title: "Apiculture-Website",
     description: "Modern apiculture website featuring a responsive UI, optimized performance, and scalable frontend architecture, designed to showcase honey products and sustainable beekeeping practices.",
     tags: ["React.js", "Vite", "TailwindCSS", "Framer-Motion"],
-    image: "/Apiculture.png",
+    image: "/apicultura-website.png",
     github: "https://github.com/ionutpetru4046/Apicultura-Website",
     live: "https://website-apicultura.vercel.app/",
     featured: false,
