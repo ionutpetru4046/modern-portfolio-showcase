@@ -31,11 +31,11 @@ const projects = [
   },
   {
     title: "Apiculture-Website",
-    description: "Modern restaurant website showcasing clean UI, smooth animations, and solid React frontend development.",
+    description: "Modern apiculture website featuring a responsive UI, optimized performance, and scalable frontend architecture, designed to showcase honey products and sustainable beekeeping practices.",
     tags: ["React.js", "Vite", "TailwindCSS", "Framer-Motion"],
-    image: "/Restaura.png",
-    github: "https://github.com/ionutpetru4046/Restaura",
-    live: "https://restaura-landing-page-website.vercel.app/",
+    image: "/Apiculture.png",
+    github: "https://github.com/ionutpetru4046/Apiculture-Website",
+    live: "https://apiculture-website.vercel.app/",
     featured: false,
   },
 ];
