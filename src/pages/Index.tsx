@@ -101,7 +101,7 @@ export default function Index() {
               className="flex justify-center gap-8 sm:gap-16 mb-10"
             >
               {[
-                { value: "3", label: "Years Experience" },
+                { value: "4", label: "Years Experience" },
                 { value: "20+", label: "Projects Completed" },
                 { value: "15+", label: "Technologies" },
               ].map((stat, index) => (
