@@ -21,12 +21,12 @@ const projects = [
     featured: true,
   },
   {
-    title: "The Ultimate Streaming Toolkit",
+    title: "RecipeHub",
     description: "Optimize your streams, track real-time analytics, and engage your audience effortlessly—all in one place. Perfect for Twitch, YouTube, and Facebook streamers.",
     tags: ["React.js", "Vite", "TailwindCSS", "Framer-Motion"],
-    image: "/Ultimate SaaS Streaming.png",
-    github: "https://github.com/ionutpetru4046/Modern-Saas-Website",
-    live: "https://modern-saas-website.vercel.app/",
+    image: "/cookHomePage.png",
+    github: "https://github.com/ionutpetru4046/recipeshub",
+    live: "https://recipeshub-gold.vercel.app/",
     featured: true,
   },
   {
